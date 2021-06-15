@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- ⚠️ [REDACTED]
-- ⚠️ [REDACTED]
-- ⚠️ [REDACTED]
+I am a 🇳🇴 M.Sc. CS student with experience in  C#, C/C++, Dart, TS, Python, Kotlin and a strong interest in computer vision and machine learning.
 
 ## ⚙️ Tech Stack
 ### Programming Languages
