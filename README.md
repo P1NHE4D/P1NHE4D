@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-I am a 🇳🇴 M.Sc. CS student with a strong interest in computer vision and machine learning.
+I am a 🇳🇴 M.Sc. Artificial Intelligence student at the Norwegian University of Science and Technology (NTNU) with a strong interest in computer vision and machine learning.
 
 ## ⚙️ Tech Stack
 ### Programming Languages
