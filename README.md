@@ -22,7 +22,7 @@ I am a 🇳🇴 M.Sc. Artificial Intelligence student at the Norwegian Universit
 
 ## ⚙️ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1nhe4d&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1nhe4d&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Programming Languages
