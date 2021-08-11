@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 ## About me
 I am a 🇳🇴 M.Sc. Artificial Intelligence student at the Norwegian University of Science and Technology (NTNU) with a strong interest in computer vision and machine learning.
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1nhe4d&show_icons=true&theme=radical&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ## ⚙️ Tech Stack
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1nhe4d&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Programming Languages
 | <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <br/> ⭐⭐⭐ | <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <br/> ⭐⭐⭐ | <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> <br/> ⭐⭐⭐ |  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> <br/> ⭐⭐ | <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <br/> ⭐⭐ | <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <br/> ⭐⭐ | <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> <br/> ⭐⭐ 
 | --- | --- | --- | --- | --- | --- | --- |
