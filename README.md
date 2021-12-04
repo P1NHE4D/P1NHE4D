@@ -38,5 +38,3 @@ I am a 🇳🇴 M.Sc. Artificial Intelligence student at the Norwegian Universit
 | --- | --- | --- |
 
 ## 📫 Contact information
-
-tUWlrXL0QUH3HXukPNcjCdEmsH==
