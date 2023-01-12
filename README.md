@@ -20,8 +20,6 @@ I am a 🇳🇴 M.Sc. Artificial Intelligence student at the Norwegian Universit
 
 <a href="https://stackoverflow.com/users/11682185/p1nhe4d"><img src="https://stackoverflow.com/users/flair/11682185.png?theme=clean" width="208" height="58" alt="profile for P1NHE4D at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for P1NHE4D at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1nhe4d&show_icons=true&theme=radical&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ## ⚙️ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1nhe4d&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=p1nhe4d&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
