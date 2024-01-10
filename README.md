@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-I am a 🇳🇴 M.Sc. Artificial Intelligence student at the Norwegian University of Science and Technology (NTNU) with a strong interest in AI and embedded systems development.
+🇳🇴 with a M.Sc. in Computer Science with a specialization in Artificial Intelligence from the Norwegian University of Science and Technology (NTNU) with a strong interest in AI and embedded systems development.
 
 <a href="https://stackoverflow.com/users/11682185/p1nhe4d"><img src="https://stackoverflow.com/users/flair/11682185.png?theme=clean" width="208" height="58" alt="profile for P1NHE4D at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for P1NHE4D at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
