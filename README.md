@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-🇳🇴 Hardware Engineer with a MSc. degree in Computer Science with a specialization in Artificial Intelligence from the Norwegian University of Science and Technology (NTNU) with a strong interest in AI and embedded systems development.
+🇳🇴 R&D Engineer with a MSc. degree in Computer Science with a specialization in Artificial Intelligence from the Norwegian University of Science and Technology (NTNU) with a strong interest in AI and embedded systems development.
 
 ## ⚙️ Tech Stack
 
