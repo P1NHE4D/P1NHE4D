@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 🇳🇴 R&D Engineer with a MSc. degree in Computer Science with a specialization in Artificial Intelligence from the Norwegian University of Science and Technology (NTNU) with a strong interest in AI and embedded systems development.
 
 ## ⚙️ Tech Stack
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=p1nhe4d&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=p1nhe4d&layout=compact&theme=dark&langs_count=10)](https://github.com/p1nhe4d/github-readme-stats)
